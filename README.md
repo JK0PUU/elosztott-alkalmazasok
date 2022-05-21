@@ -1,3 +1,3 @@
-# elosztott-alkalmazasok 2022.
+# Elosztott alkalmazasok 2022.
 
 Tudósok és feltalálók vesznek részt egy értekezleten. A tudósnak van doktori fokozata egy szakterületről, a feltalálónak van találmánya. A fokozat csak egy leírás, de lehet belőle több is. Amikor megszerzi a tudós az új fokozatát, akkor öregszik 3 évet. A találmány nevén kívül a felfedezés évét is számon kell tartani, mert minden feltatláló meg tudja adni a találmányai nevét a felfedezés szerint növekvő vagy csökkenő sorba rendezve. A résztvevőknek legalább 28 évesnek kell lenniük, és regisztrálniuk kell a rendezvényre. A rendezvényen résztvevők listája legyen megjeleníthető és kimenthető egy bináris állományba! Amikor "létrejön" egy rendezvény, akkor aktualizálja magát, ha van létező állomány.
